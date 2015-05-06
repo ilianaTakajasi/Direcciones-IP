@@ -1,0 +1,10 @@
+c:\users\aleyda izaguirre\documents\visual studio 2012\Projects\direccinesIP\direccinesIP\bin\direccinesIP.dll
+c:\users\aleyda izaguirre\documents\visual studio 2012\Projects\direccinesIP\direccinesIP\bin\direccinesIP.pdb
+c:\users\aleyda izaguirre\documents\visual studio 2012\Projects\direccinesIP\direccinesIP\obj\Debug\direccinesIP.csprojResolveAssemblyReference.cache
+c:\users\aleyda izaguirre\documents\visual studio 2012\Projects\direccinesIP\direccinesIP\obj\Debug\direccinesIP.dll
+c:\users\aleyda izaguirre\documents\visual studio 2012\Projects\direccinesIP\direccinesIP\obj\Debug\direccinesIP.pdb
+C:\Users\ely\Documents\Visual Studio 2012\Projects\direccinesIP\direccinesIP\obj\Debug\direccinesIP.csprojResolveAssemblyReference.cache
+C:\Users\ely\Documents\Visual Studio 2012\Projects\direccinesIP\direccinesIP\obj\Debug\direccinesIP.dll
+C:\Users\ely\Documents\Visual Studio 2012\Projects\direccinesIP\direccinesIP\bin\direccinesIP.dll
+C:\Users\ely\Documents\Visual Studio 2012\Projects\direccinesIP\direccinesIP\bin\direccinesIP.pdb
+C:\Users\ely\Documents\Visual Studio 2012\Projects\direccinesIP\direccinesIP\obj\Debug\direccinesIP.pdb

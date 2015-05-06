@@ -1,0 +1,18 @@
+c:\users\aleyda izaguirre\documents\visual studio 2012\Projects\direccinesIP\direcciones\bin\Debug\direcciones.exe.config
+c:\users\aleyda izaguirre\documents\visual studio 2012\Projects\direccinesIP\direcciones\bin\Debug\direcciones.exe
+c:\users\aleyda izaguirre\documents\visual studio 2012\Projects\direccinesIP\direcciones\bin\Debug\direcciones.pdb
+c:\users\aleyda izaguirre\documents\visual studio 2012\Projects\direccinesIP\direcciones\obj\Debug\direcciones.csprojResolveAssemblyReference.cache
+c:\users\aleyda izaguirre\documents\visual studio 2012\Projects\direccinesIP\direcciones\obj\Debug\direcciones.Properties.Resources.resources
+c:\users\aleyda izaguirre\documents\visual studio 2012\Projects\direccinesIP\direcciones\obj\Debug\direcciones.csproj.GenerateResource.Cache
+c:\users\aleyda izaguirre\documents\visual studio 2012\Projects\direccinesIP\direcciones\obj\Debug\direcciones.exe
+c:\users\aleyda izaguirre\documents\visual studio 2012\Projects\direccinesIP\direcciones\obj\Debug\direcciones.pdb
+c:\users\aleyda izaguirre\documents\visual studio 2012\Projects\direccinesIP\direcciones\obj\Debug\direcciones.Form1.resources
+C:\Users\ely\Documents\Visual Studio 2012\Projects\direccinesIP\direcciones\bin\Debug\direcciones.exe.config
+C:\Users\ely\Documents\Visual Studio 2012\Projects\direccinesIP\direcciones\obj\Debug\direcciones.exe
+C:\Users\ely\Documents\Visual Studio 2012\Projects\direccinesIP\direcciones\obj\Debug\direcciones.pdb
+C:\Users\ely\Documents\Visual Studio 2012\Projects\direccinesIP\direcciones\bin\Debug\direcciones.exe
+C:\Users\ely\Documents\Visual Studio 2012\Projects\direccinesIP\direcciones\bin\Debug\direcciones.pdb
+C:\Users\ely\Documents\Visual Studio 2012\Projects\direccinesIP\direcciones\obj\Debug\direcciones.csprojResolveAssemblyReference.cache
+C:\Users\ely\Documents\Visual Studio 2012\Projects\direccinesIP\direcciones\obj\Debug\direcciones.Form1.resources
+C:\Users\ely\Documents\Visual Studio 2012\Projects\direccinesIP\direcciones\obj\Debug\direcciones.Properties.Resources.resources
+C:\Users\ely\Documents\Visual Studio 2012\Projects\direccinesIP\direcciones\obj\Debug\direcciones.csproj.GenerateResource.Cache
